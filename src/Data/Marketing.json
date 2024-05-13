@@ -1,0 +1,1971 @@
+{
+    "Email": [
+        {
+            "DATE": "Tuesday, January 03, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Awareness Email Marketing Campaigns",
+            "SENT": "5,000",
+            "OPENS": "3,080",
+            "OPENS PER": "61.60%",
+            "CLICKS": "665",
+            "CLICKS PER": "21.59%",
+            "BOUNCES": "15",
+            "UNSUBS": "1"
+        },
+        {
+            "DATE": "Thursday, January 05, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "Lead Nurturing Email Marketing Campaign",
+            "SENT": "5,050",
+            "OPENS": "3,200",
+            "OPENS PER": "63.37%",
+            "CLICKS": "714",
+            "CLICKS PER": "22.31%",
+            "BOUNCES": "125",
+            "UNSUBS": "52"
+        },
+        {
+            "DATE": "Friday, January 06, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Revenue Generation Email Marketing Campaign",
+            "SENT": "5,100",
+            "OPENS": "3,500",
+            "OPENS PER": "68.63%",
+            "CLICKS": "745",
+            "CLICKS PER": "21.29%",
+            "BOUNCES": "201",
+            "UNSUBS": "21"
+        },
+        {
+            "DATE": "Tuesday, January 10, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,200",
+            "OPENS": "1,800",
+            "OPENS PER": "34.62%",
+            "CLICKS": "150",
+            "CLICKS PER": "8.33%",
+            "BOUNCES": "35",
+            "UNSUBS": "30"
+        },
+        {
+            "DATE": "Thursday, January 12, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "Marketing Campaign: Engagement",
+            "SENT": "5,250",
+            "OPENS": "3,215",
+            "OPENS PER": "61.24%",
+            "CLICKS": "256",
+            "CLICKS PER": "7.96%",
+            "BOUNCES": "55",
+            "UNSUBS": "21"
+        },
+        {
+            "DATE": "Monday, January 16, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Marketing Campaign: Update",
+            "SENT": "5,300",
+            "OPENS": "3,217",
+            "OPENS PER": "60.70%",
+            "CLICKS": "625",
+            "CLICKS PER": "19.43%",
+            "BOUNCES": "104",
+            "UNSUBS": "50"
+        },
+        {
+            "DATE": "Tuesday, January 17, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,400",
+            "OPENS": "1,714",
+            "OPENS PER": "31.74%",
+            "CLICKS": "98",
+            "CLICKS PER": "5.72%",
+            "BOUNCES": "11",
+            "UNSUBS": "5"
+        },
+        {
+            "DATE": "Monday, January 23, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Marketing Campaign: Promotion",
+            "SENT": "5,400",
+            "OPENS": "2,568",
+            "OPENS PER": "47.56%",
+            "CLICKS": "152",
+            "CLICKS PER": "5.92%",
+            "BOUNCES": "22",
+            "UNSUBS": "15"
+        },
+        {
+            "DATE": "Tuesday, January 24, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,450",
+            "OPENS": "1,522",
+            "OPENS PER": "27.93%",
+            "CLICKS": "214",
+            "CLICKS PER": "14.06%",
+            "BOUNCES": "41",
+            "UNSUBS": "22"
+        },
+        {
+            "DATE": "Tuesday, January 31, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,500",
+            "OPENS": "1,425",
+            "OPENS PER": "25.91%",
+            "CLICKS": "87",
+            "CLICKS PER": "6.11%",
+            "BOUNCES": "14",
+            "UNSUBS": "7"
+        },
+        {
+            "DATE": "Tuesday, February 07, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,550",
+            "OPENS": "1,877",
+            "OPENS PER": "33.82%",
+            "CLICKS": "59",
+            "CLICKS PER": "3.14%",
+            "BOUNCES": "11",
+            "UNSUBS": "6"
+        },
+        {
+            "DATE": "Thursday, February 09, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "Re-Engagement Campaign",
+            "SENT": "5,600",
+            "OPENS": "3,895",
+            "OPENS PER": "69.55%",
+            "CLICKS": "356",
+            "CLICKS PER": "9.14%",
+            "BOUNCES": "77",
+            "UNSUBS": "75"
+        },
+        {
+            "DATE": "Tuesday, February 14, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,600",
+            "OPENS": "2,014",
+            "OPENS PER": "35.96%",
+            "CLICKS": "117",
+            "CLICKS PER": "5.81%",
+            "BOUNCES": "25",
+            "UNSUBS": "14"
+        },
+        {
+            "DATE": "Wednesday, February 15, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Marketing Campaign: Customer Delight",
+            "SENT": "5,650",
+            "OPENS": "3,557",
+            "OPENS PER": "62.96%",
+            "CLICKS": "541",
+            "CLICKS PER": "15.21%",
+            "BOUNCES": "117",
+            "UNSUBS": "60"
+        },
+        {
+            "DATE": "Friday, February 17, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Marketing Campaign: Email Preferences",
+            "SENT": "5,700",
+            "OPENS": "3,218",
+            "OPENS PER": "56.46%",
+            "CLICKS": "488",
+            "CLICKS PER": "15.16%",
+            "BOUNCES": "163",
+            "UNSUBS": "106"
+        },
+        {
+            "DATE": "Tuesday, February 21, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,700",
+            "OPENS": "1,855",
+            "OPENS PER": "32.54%",
+            "CLICKS": "99",
+            "CLICKS PER": "5.34%",
+            "BOUNCES": "22",
+            "UNSUBS": "17"
+        },
+        {
+            "DATE": "Tuesday, February 28, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,750",
+            "OPENS": "1,654",
+            "OPENS PER": "28.77%",
+            "CLICKS": "85",
+            "CLICKS PER": "5.14%",
+            "BOUNCES": "14",
+            "UNSUBS": "19"
+        },
+        {
+            "DATE": "Friday, March 03, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "VIP Anouncement",
+            "SENT": "5,780",
+            "OPENS": "3,796",
+            "OPENS PER": "65.67%",
+            "CLICKS": "365",
+            "CLICKS PER": "9.62%",
+            "BOUNCES": "88",
+            "UNSUBS": "90"
+        },
+        {
+            "DATE": "Tuesday, March 07, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "5,800",
+            "OPENS": "2,006",
+            "OPENS PER": "34.59%",
+            "CLICKS": "144",
+            "CLICKS PER": "7.18%",
+            "BOUNCES": "33",
+            "UNSUBS": "28"
+        },
+        {
+            "DATE": "Monday, March 13, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "Solo Send: Special Offers",
+            "SENT": "5,840",
+            "OPENS": "4,325",
+            "OPENS PER": "74.06%",
+            "CLICKS": "388",
+            "CLICKS PER": "8.97%",
+            "BOUNCES": "94",
+            "UNSUBS": "66"
+        },
+        {
+            "DATE": "Tuesday, March 14, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "6,020",
+            "OPENS": "2,135",
+            "OPENS PER": "35.47%",
+            "CLICKS": "125",
+            "CLICKS PER": "5.85%",
+            "BOUNCES": "20",
+            "UNSUBS": "14"
+        },
+        {
+            "DATE": "Thursday, March 16, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "Daily customer Update",
+            "SENT": "6,040",
+            "OPENS": "1,450",
+            "OPENS PER": "24.01%",
+            "CLICKS": "102",
+            "CLICKS PER": "7.03%",
+            "BOUNCES": "13",
+            "UNSUBS": "6"
+        },
+        {
+            "DATE": "Tuesday, March 21, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "6,250",
+            "OPENS": "2,359",
+            "OPENS PER": "37.74%",
+            "CLICKS": "225",
+            "CLICKS PER": "9.54%",
+            "BOUNCES": "44",
+            "UNSUBS": "41"
+        },
+        {
+            "DATE": "Wednesday, March 22, 2023",
+            "TIME": "10:00",
+            "CAMPAIGN": "Course is now 50% off",
+            "SENT": "6,260",
+            "OPENS": "3,996",
+            "OPENS PER": "63.83%",
+            "CLICKS": "418",
+            "CLICKS PER": "10.46%",
+            "BOUNCES": "98",
+            "UNSUBS": "85"
+        },
+        {
+            "DATE": "Friday, March 24, 2023",
+            "TIME": "9:00",
+            "CAMPAIGN": "Promise of Responsive Service",
+            "SENT": "6,510",
+            "OPENS": "4,187",
+            "OPENS PER": "64.32%",
+            "CLICKS": "705",
+            "CLICKS PER": "16.84%",
+            "BOUNCES": "177",
+            "UNSUBS": "103"
+        },
+        {
+            "DATE": "Tuesday, March 28, 2023",
+            "TIME": "8:00",
+            "CAMPAIGN": "Weekly Newsletter",
+            "SENT": "6,550",
+            "OPENS": "1,541",
+            "OPENS PER": "23.53%",
+            "CLICKS": "145",
+            "CLICKS PER": "9.41%",
+            "BOUNCES": "36",
+            "UNSUBS": "31"
+        }
+    ],
+    "E-Subscribers": [
+        {
+            "DATE": "Sunday, January 01, 2023",
+            "SUBSCRIBED": "2,000"
+        },
+        {
+            "DATE": "Monday, January 02, 2023",
+            "SUBSCRIBED": "5,000"
+        },
+        {
+            "DATE": "Tuesday, January 03, 2023",
+            "SUBSCRIBED": "5,018"
+        },
+        {
+            "DATE": "Wednesday, January 04, 2023",
+            "SUBSCRIBED": "5,027"
+        },
+        {
+            "DATE": "Thursday, January 05, 2023",
+            "SUBSCRIBED": "5,050"
+        },
+        {
+            "DATE": "Friday, January 06, 2023",
+            "SUBSCRIBED": "5,100"
+        },
+        {
+            "DATE": "Saturday, January 07, 2023",
+            "SUBSCRIBED": "5,104"
+        },
+        {
+            "DATE": "Sunday, January 08, 2023",
+            "SUBSCRIBED": "5,107"
+        },
+        {
+            "DATE": "Monday, January 09, 2023",
+            "SUBSCRIBED": "5,145"
+        },
+        {
+            "DATE": "Tuesday, January 10, 2023",
+            "SUBSCRIBED": "5,200"
+        },
+        {
+            "DATE": "Wednesday, January 11, 2023",
+            "SUBSCRIBED": "5,254"
+        },
+        {
+            "DATE": "Thursday, January 12, 2023",
+            "SUBSCRIBED": "5,250"
+        },
+        {
+            "DATE": "Friday, January 13, 2023",
+            "SUBSCRIBED": "5,357"
+        },
+        {
+            "DATE": "Saturday, January 14, 2023",
+            "SUBSCRIBED": "5,353"
+        },
+        {
+            "DATE": "Sunday, January 15, 2023",
+            "SUBSCRIBED": "5,325"
+        },
+        {
+            "DATE": "Monday, January 16, 2023",
+            "SUBSCRIBED": "5,350"
+        },
+        {
+            "DATE": "Tuesday, January 17, 2023",
+            "SUBSCRIBED": "5,400"
+        },
+        {
+            "DATE": "Wednesday, January 18, 2023",
+            "SUBSCRIBED": "5,420"
+        },
+        {
+            "DATE": "Thursday, January 19, 2023",
+            "SUBSCRIBED": "5,417"
+        },
+        {
+            "DATE": "Friday, January 20, 2023",
+            "SUBSCRIBED": "5,412"
+        },
+        {
+            "DATE": "Saturday, January 21, 2023",
+            "SUBSCRIBED": "5,408"
+        },
+        {
+            "DATE": "Sunday, January 22, 2023",
+            "SUBSCRIBED": "5,404"
+        },
+        {
+            "DATE": "Monday, January 23, 2023",
+            "SUBSCRIBED": "5,400"
+        },
+        {
+            "DATE": "Tuesday, January 24, 2023",
+            "SUBSCRIBED": "5,450"
+        },
+        {
+            "DATE": "Wednesday, January 25, 2023",
+            "SUBSCRIBED": "5,512"
+        },
+        {
+            "DATE": "Thursday, January 26, 2023",
+            "SUBSCRIBED": "5,510"
+        },
+        {
+            "DATE": "Friday, January 27, 2023",
+            "SUBSCRIBED": "5,504"
+        },
+        {
+            "DATE": "Saturday, January 28, 2023",
+            "SUBSCRIBED": "5,503"
+        },
+        {
+            "DATE": "Sunday, January 29, 2023",
+            "SUBSCRIBED": "5,502"
+        },
+        {
+            "DATE": "Monday, January 30, 2023",
+            "SUBSCRIBED": "5,501"
+        },
+        {
+            "DATE": "Tuesday, January 31, 2023",
+            "SUBSCRIBED": "5,500"
+        },
+        {
+            "DATE": "Wednesday, February 01, 2023",
+            "SUBSCRIBED": "5,589"
+        },
+        {
+            "DATE": "Thursday, February 02, 2023",
+            "SUBSCRIBED": "5,584"
+        },
+        {
+            "DATE": "Friday, February 03, 2023",
+            "SUBSCRIBED": "5,575"
+        },
+        {
+            "DATE": "Saturday, February 04, 2023",
+            "SUBSCRIBED": "5,572"
+        },
+        {
+            "DATE": "Sunday, February 05, 2023",
+            "SUBSCRIBED": "5,571"
+        },
+        {
+            "DATE": "Monday, February 06, 2023",
+            "SUBSCRIBED": "5,560"
+        },
+        {
+            "DATE": "Tuesday, February 07, 2023",
+            "SUBSCRIBED": "5,550"
+        },
+        {
+            "DATE": "Wednesday, February 08, 2023",
+            "SUBSCRIBED": "5,640"
+        },
+        {
+            "DATE": "Thursday, February 09, 2023",
+            "SUBSCRIBED": "5,600"
+        },
+        {
+            "DATE": "Friday, February 10, 2023",
+            "SUBSCRIBED": "5,625"
+        },
+        {
+            "DATE": "Saturday, February 11, 2023",
+            "SUBSCRIBED": "5,618"
+        },
+        {
+            "DATE": "Sunday, February 12, 2023",
+            "SUBSCRIBED": "5,609"
+        },
+        {
+            "DATE": "Monday, February 13, 2023",
+            "SUBSCRIBED": "5,602"
+        },
+        {
+            "DATE": "Tuesday, February 14, 2023",
+            "SUBSCRIBED": "5,600"
+        },
+        {
+            "DATE": "Wednesday, February 15, 2023",
+            "SUBSCRIBED": "5,650"
+        },
+        {
+            "DATE": "Thursday, February 16, 2023",
+            "SUBSCRIBED": "5,722"
+        },
+        {
+            "DATE": "Friday, February 17, 2023",
+            "SUBSCRIBED": "5,700"
+        },
+        {
+            "DATE": "Saturday, February 18, 2023",
+            "SUBSCRIBED": "5,714"
+        },
+        {
+            "DATE": "Sunday, February 19, 2023",
+            "SUBSCRIBED": "5,708"
+        },
+        {
+            "DATE": "Monday, February 20, 2023",
+            "SUBSCRIBED": "5,703"
+        },
+        {
+            "DATE": "Tuesday, February 21, 2023",
+            "SUBSCRIBED": "5,700"
+        },
+        {
+            "DATE": "Wednesday, February 22, 2023",
+            "SUBSCRIBED": "5,814"
+        },
+        {
+            "DATE": "Thursday, February 23, 2023",
+            "SUBSCRIBED": "5,801"
+        },
+        {
+            "DATE": "Friday, February 24, 2023",
+            "SUBSCRIBED": "5,789"
+        },
+        {
+            "DATE": "Saturday, February 25, 2023",
+            "SUBSCRIBED": "5,788"
+        },
+        {
+            "DATE": "Sunday, February 26, 2023",
+            "SUBSCRIBED": "5,780"
+        },
+        {
+            "DATE": "Monday, February 27, 2023",
+            "SUBSCRIBED": "5,772"
+        },
+        {
+            "DATE": "Tuesday, February 28, 2023",
+            "SUBSCRIBED": "5,750"
+        },
+        {
+            "DATE": "Wednesday, March 01, 2023",
+            "SUBSCRIBED": "5,805"
+        },
+        {
+            "DATE": "Thursday, March 02, 2023",
+            "SUBSCRIBED": "5,799"
+        },
+        {
+            "DATE": "Friday, March 03, 2023",
+            "SUBSCRIBED": "5,780"
+        },
+        {
+            "DATE": "Saturday, March 04, 2023",
+            "SUBSCRIBED": "5,822"
+        },
+        {
+            "DATE": "Sunday, March 05, 2023",
+            "SUBSCRIBED": "5,814"
+        },
+        {
+            "DATE": "Monday, March 06, 2023",
+            "SUBSCRIBED": "5,804"
+        },
+        {
+            "DATE": "Tuesday, March 07, 2023",
+            "SUBSCRIBED": "5,800"
+        },
+        {
+            "DATE": "Wednesday, March 08, 2023",
+            "SUBSCRIBED": "5,870"
+        },
+        {
+            "DATE": "Thursday, March 09, 2023",
+            "SUBSCRIBED": "5,866"
+        },
+        {
+            "DATE": "Friday, March 10, 2023",
+            "SUBSCRIBED": "5,860"
+        },
+        {
+            "DATE": "Saturday, March 11, 2023",
+            "SUBSCRIBED": "5,852"
+        },
+        {
+            "DATE": "Sunday, March 12, 2023",
+            "SUBSCRIBED": "5,844"
+        },
+        {
+            "DATE": "Monday, March 13, 2023",
+            "SUBSCRIBED": "5,840"
+        },
+        {
+            "DATE": "Tuesday, March 14, 2023",
+            "SUBSCRIBED": "6,020"
+        },
+        {
+            "DATE": "Wednesday, March 15, 2023",
+            "SUBSCRIBED": "6,045"
+        },
+        {
+            "DATE": "Thursday, March 16, 2023",
+            "SUBSCRIBED": "6,040"
+        },
+        {
+            "DATE": "Friday, March 17, 2023",
+            "SUBSCRIBED": "6,318"
+        },
+        {
+            "DATE": "Saturday, March 18, 2023",
+            "SUBSCRIBED": "6,302"
+        },
+        {
+            "DATE": "Sunday, March 19, 2023",
+            "SUBSCRIBED": "6,288"
+        },
+        {
+            "DATE": "Monday, March 20, 2023",
+            "SUBSCRIBED": "6,264"
+        },
+        {
+            "DATE": "Tuesday, March 21, 2023",
+            "SUBSCRIBED": "6,250"
+        },
+        {
+            "DATE": "Wednesday, March 22, 2023",
+            "SUBSCRIBED": "6,260"
+        },
+        {
+            "DATE": "Thursday, March 23, 2023",
+            "SUBSCRIBED": "6,522"
+        },
+        {
+            "DATE": "Friday, March 24, 2023",
+            "SUBSCRIBED": "6,510"
+        },
+        {
+            "DATE": "Saturday, March 25, 2023",
+            "SUBSCRIBED": "6,623"
+        },
+        {
+            "DATE": "Sunday, March 26, 2023",
+            "SUBSCRIBED": "6,601"
+        },
+        {
+            "DATE": "Monday, March 27, 2023",
+            "SUBSCRIBED": "6,575"
+        },
+        {
+            "DATE": "Tuesday, March 28, 2023",
+            "SUBSCRIBED": "6,550"
+        },
+        {
+            "DATE": "Wednesday, March 29, 2023",
+            "SUBSCRIBED": "6,548"
+        },
+        {
+            "DATE": "Thursday, March 30, 2023",
+            "SUBSCRIBED": "6,540"
+        },
+        {
+            "DATE": "Friday, March 31, 2023",
+            "SUBSCRIBED": "6,537"
+        }
+    ],
+    "Google": [
+        {
+            "DATE": "Sunday, January 01, 2023",
+            "DIRECT": "20",
+            "ORGANIC": "30",
+            "REFERRAL": "17",
+            "PAID": "7",
+            "OTHER": "44",
+            "TOTAL SESSIONS": "118"
+        },
+        {
+            "DATE": "Monday, January 02, 2023",
+            "DIRECT": "25",
+            "ORGANIC": "26",
+            "REFERRAL": "16",
+            "PAID": "11",
+            "OTHER": "36",
+            "TOTAL SESSIONS": "114"
+        },
+        {
+            "DATE": "Tuesday, January 03, 2023",
+            "DIRECT": "123",
+            "ORGANIC": "89",
+            "REFERRAL": "73",
+            "PAID": "15",
+            "OTHER": "182",
+            "TOTAL SESSIONS": "482"
+        },
+        {
+            "DATE": "Wednesday, January 04, 2023",
+            "DIRECT": "107",
+            "ORGANIC": "99",
+            "REFERRAL": "87",
+            "PAID": "46",
+            "OTHER": "188",
+            "TOTAL SESSIONS": "527"
+        },
+        {
+            "DATE": "Thursday, January 05, 2023",
+            "DIRECT": "111",
+            "ORGANIC": "93",
+            "REFERRAL": "87",
+            "PAID": "27",
+            "OTHER": "143",
+            "TOTAL SESSIONS": "461"
+        },
+        {
+            "DATE": "Friday, January 06, 2023",
+            "DIRECT": "140",
+            "ORGANIC": "147",
+            "REFERRAL": "151",
+            "PAID": "14",
+            "OTHER": "118",
+            "TOTAL SESSIONS": "570"
+        },
+        {
+            "DATE": "Saturday, January 07, 2023",
+            "DIRECT": "55",
+            "ORGANIC": "39",
+            "REFERRAL": "33",
+            "PAID": "28",
+            "OTHER": "37",
+            "TOTAL SESSIONS": "192"
+        },
+        {
+            "DATE": "Sunday, January 08, 2023",
+            "DIRECT": "57",
+            "ORGANIC": "45",
+            "REFERRAL": "46",
+            "PAID": "11",
+            "OTHER": "48",
+            "TOTAL SESSIONS": "207"
+        },
+        {
+            "DATE": "Monday, January 09, 2023",
+            "DIRECT": "140",
+            "ORGANIC": "152",
+            "REFERRAL": "152",
+            "PAID": "24",
+            "OTHER": "133",
+            "TOTAL SESSIONS": "601"
+        },
+        {
+            "DATE": "Tuesday, January 10, 2023",
+            "DIRECT": "137",
+            "ORGANIC": "130",
+            "REFERRAL": "119",
+            "PAID": "46",
+            "OTHER": "89",
+            "TOTAL SESSIONS": "521"
+        },
+        {
+            "DATE": "Wednesday, January 11, 2023",
+            "DIRECT": "109",
+            "ORGANIC": "113",
+            "REFERRAL": "102",
+            "PAID": "55",
+            "OTHER": "128",
+            "TOTAL SESSIONS": "507"
+        },
+        {
+            "DATE": "Thursday, January 12, 2023",
+            "DIRECT": "101",
+            "ORGANIC": "101",
+            "REFERRAL": "98",
+            "PAID": "22",
+            "OTHER": "136",
+            "TOTAL SESSIONS": "458"
+        },
+        {
+            "DATE": "Friday, January 13, 2023",
+            "DIRECT": "120",
+            "ORGANIC": "95",
+            "REFERRAL": "85",
+            "PAID": "39",
+            "OTHER": "197",
+            "TOTAL SESSIONS": "536"
+        },
+        {
+            "DATE": "Saturday, January 14, 2023",
+            "DIRECT": "50",
+            "ORGANIC": "52",
+            "REFERRAL": "47",
+            "PAID": "15",
+            "OTHER": "93",
+            "TOTAL SESSIONS": "257"
+        },
+        {
+            "DATE": "Sunday, January 15, 2023",
+            "DIRECT": "42",
+            "ORGANIC": "45",
+            "REFERRAL": "45",
+            "PAID": "17",
+            "OTHER": "60",
+            "TOTAL SESSIONS": "209"
+        },
+        {
+            "DATE": "Monday, January 16, 2023",
+            "DIRECT": "114",
+            "ORGANIC": "82",
+            "REFERRAL": "73",
+            "PAID": "50",
+            "OTHER": "81",
+            "TOTAL SESSIONS": "400"
+        },
+        {
+            "DATE": "Tuesday, January 17, 2023",
+            "DIRECT": "120",
+            "ORGANIC": "92",
+            "REFERRAL": "85",
+            "PAID": "28",
+            "OTHER": "133",
+            "TOTAL SESSIONS": "458"
+        },
+        {
+            "DATE": "Wednesday, January 18, 2023",
+            "DIRECT": "93",
+            "ORGANIC": "80",
+            "REFERRAL": "65",
+            "PAID": "34",
+            "OTHER": "133",
+            "TOTAL SESSIONS": "405"
+        },
+        {
+            "DATE": "Thursday, January 19, 2023",
+            "DIRECT": "103",
+            "ORGANIC": "95",
+            "REFERRAL": "85",
+            "PAID": "51",
+            "OTHER": "193",
+            "TOTAL SESSIONS": "527"
+        },
+        {
+            "DATE": "Friday, January 20, 2023",
+            "DIRECT": "102",
+            "ORGANIC": "65",
+            "REFERRAL": "65",
+            "PAID": "55",
+            "OTHER": "124",
+            "TOTAL SESSIONS": "411"
+        },
+        {
+            "DATE": "Saturday, January 21, 2023",
+            "DIRECT": "51",
+            "ORGANIC": "37",
+            "REFERRAL": "38",
+            "PAID": "26",
+            "OTHER": "43",
+            "TOTAL SESSIONS": "195"
+        },
+        {
+            "DATE": "Sunday, January 22, 2023",
+            "DIRECT": "59",
+            "ORGANIC": "54",
+            "REFERRAL": "56",
+            "PAID": "29",
+            "OTHER": "77",
+            "TOTAL SESSIONS": "275"
+        },
+        {
+            "DATE": "Monday, January 23, 2023",
+            "DIRECT": "122",
+            "ORGANIC": "88",
+            "REFERRAL": "89",
+            "PAID": "35",
+            "OTHER": "107",
+            "TOTAL SESSIONS": "441"
+        },
+        {
+            "DATE": "Tuesday, January 24, 2023",
+            "DIRECT": "87",
+            "ORGANIC": "70",
+            "REFERRAL": "62",
+            "PAID": "17",
+            "OTHER": "183",
+            "TOTAL SESSIONS": "419"
+        },
+        {
+            "DATE": "Wednesday, January 25, 2023",
+            "DIRECT": "128",
+            "ORGANIC": "111",
+            "REFERRAL": "100",
+            "PAID": "30",
+            "OTHER": "157",
+            "TOTAL SESSIONS": "526"
+        },
+        {
+            "DATE": "Thursday, January 26, 2023",
+            "DIRECT": "112",
+            "ORGANIC": "121",
+            "REFERRAL": "112",
+            "PAID": "35",
+            "OTHER": "102",
+            "TOTAL SESSIONS": "482"
+        },
+        {
+            "DATE": "Friday, January 27, 2023",
+            "DIRECT": "97",
+            "ORGANIC": "97",
+            "REFERRAL": "83",
+            "PAID": "31",
+            "OTHER": "167",
+            "TOTAL SESSIONS": "475"
+        },
+        {
+            "DATE": "Saturday, January 28, 2023",
+            "DIRECT": "55",
+            "ORGANIC": "54",
+            "REFERRAL": "55",
+            "PAID": "8",
+            "OTHER": "63",
+            "TOTAL SESSIONS": "235"
+        },
+        {
+            "DATE": "Sunday, January 29, 2023",
+            "DIRECT": "54",
+            "ORGANIC": "59",
+            "REFERRAL": "62",
+            "PAID": "22",
+            "OTHER": "71",
+            "TOTAL SESSIONS": "268"
+        },
+        {
+            "DATE": "Monday, January 30, 2023",
+            "DIRECT": "131",
+            "ORGANIC": "100",
+            "REFERRAL": "100",
+            "PAID": "28",
+            "OTHER": "180",
+            "TOTAL SESSIONS": "539"
+        },
+        {
+            "DATE": "Tuesday, January 31, 2023",
+            "DIRECT": "108",
+            "ORGANIC": "114",
+            "REFERRAL": "120",
+            "PAID": "47",
+            "OTHER": "150",
+            "TOTAL SESSIONS": "539"
+        },
+        {
+            "DATE": "Wednesday, February 01, 2023",
+            "DIRECT": "126",
+            "ORGANIC": "84",
+            "REFERRAL": "86",
+            "PAID": "49",
+            "OTHER": "162",
+            "TOTAL SESSIONS": "507"
+        },
+        {
+            "DATE": "Thursday, February 02, 2023",
+            "DIRECT": "116",
+            "ORGANIC": "72",
+            "REFERRAL": "59",
+            "PAID": "54",
+            "OTHER": "142",
+            "TOTAL SESSIONS": "443"
+        },
+        {
+            "DATE": "Friday, February 03, 2023",
+            "DIRECT": "102",
+            "ORGANIC": "68",
+            "REFERRAL": "58",
+            "PAID": "40",
+            "OTHER": "85",
+            "TOTAL SESSIONS": "353"
+        },
+        {
+            "DATE": "Saturday, February 04, 2023",
+            "DIRECT": "60",
+            "ORGANIC": "61",
+            "REFERRAL": "61",
+            "PAID": "29",
+            "OTHER": "67",
+            "TOTAL SESSIONS": "278"
+        },
+        {
+            "DATE": "Sunday, February 05, 2023",
+            "DIRECT": "55",
+            "ORGANIC": "49",
+            "REFERRAL": "43",
+            "PAID": "26",
+            "OTHER": "70",
+            "TOTAL SESSIONS": "243"
+        },
+        {
+            "DATE": "Monday, February 06, 2023",
+            "DIRECT": "100",
+            "ORGANIC": "77",
+            "REFERRAL": "77",
+            "PAID": "14",
+            "OTHER": "135",
+            "TOTAL SESSIONS": "403"
+        },
+        {
+            "DATE": "Tuesday, February 07, 2023",
+            "DIRECT": "117",
+            "ORGANIC": "76",
+            "REFERRAL": "70",
+            "PAID": "49",
+            "OTHER": "170",
+            "TOTAL SESSIONS": "482"
+        },
+        {
+            "DATE": "Wednesday, February 08, 2023",
+            "DIRECT": "124",
+            "ORGANIC": "104",
+            "REFERRAL": "88",
+            "PAID": "58",
+            "OTHER": "148",
+            "TOTAL SESSIONS": "522"
+        },
+        {
+            "DATE": "Thursday, February 09, 2023",
+            "DIRECT": "140",
+            "ORGANIC": "147",
+            "REFERRAL": "147",
+            "PAID": "31",
+            "OTHER": "200",
+            "TOTAL SESSIONS": "665"
+        },
+        {
+            "DATE": "Friday, February 10, 2023",
+            "DIRECT": "88",
+            "ORGANIC": "91",
+            "REFERRAL": "84",
+            "PAID": "22",
+            "OTHER": "188",
+            "TOTAL SESSIONS": "473"
+        },
+        {
+            "DATE": "Saturday, February 11, 2023",
+            "DIRECT": "45",
+            "ORGANIC": "46",
+            "REFERRAL": "44",
+            "PAID": "10",
+            "OTHER": "88",
+            "TOTAL SESSIONS": "233"
+        },
+        {
+            "DATE": "Sunday, February 12, 2023",
+            "DIRECT": "45",
+            "ORGANIC": "24",
+            "REFERRAL": "27",
+            "PAID": "17",
+            "OTHER": "98",
+            "TOTAL SESSIONS": "211"
+        },
+        {
+            "DATE": "Monday, February 13, 2023",
+            "DIRECT": "94",
+            "ORGANIC": "96",
+            "REFERRAL": "101",
+            "PAID": "58",
+            "OTHER": "95",
+            "TOTAL SESSIONS": "444"
+        },
+        {
+            "DATE": "Tuesday, February 14, 2023",
+            "DIRECT": "90",
+            "ORGANIC": "47",
+            "REFERRAL": "44",
+            "PAID": "32",
+            "OTHER": "145",
+            "TOTAL SESSIONS": "358"
+        },
+        {
+            "DATE": "Wednesday, February 15, 2023",
+            "DIRECT": "139",
+            "ORGANIC": "134",
+            "REFERRAL": "126",
+            "PAID": "41",
+            "OTHER": "206",
+            "TOTAL SESSIONS": "646"
+        },
+        {
+            "DATE": "Thursday, February 16, 2023",
+            "DIRECT": "119",
+            "ORGANIC": "83",
+            "REFERRAL": "67",
+            "PAID": "40",
+            "OTHER": "146",
+            "TOTAL SESSIONS": "455"
+        },
+        {
+            "DATE": "Friday, February 17, 2023",
+            "DIRECT": "128",
+            "ORGANIC": "133",
+            "REFERRAL": "136",
+            "PAID": "13",
+            "OTHER": "125",
+            "TOTAL SESSIONS": "535"
+        },
+        {
+            "DATE": "Saturday, February 18, 2023",
+            "DIRECT": "67",
+            "ORGANIC": "64",
+            "REFERRAL": "60",
+            "PAID": "11",
+            "OTHER": "66",
+            "TOTAL SESSIONS": "268"
+        },
+        {
+            "DATE": "Sunday, February 19, 2023",
+            "DIRECT": "68",
+            "ORGANIC": "72",
+            "REFERRAL": "65",
+            "PAID": "13",
+            "OTHER": "90",
+            "TOTAL SESSIONS": "308"
+        },
+        {
+            "DATE": "Monday, February 20, 2023",
+            "DIRECT": "135",
+            "ORGANIC": "103",
+            "REFERRAL": "101",
+            "PAID": "18",
+            "OTHER": "112",
+            "TOTAL SESSIONS": "469"
+        },
+        {
+            "DATE": "Tuesday, February 21, 2023",
+            "DIRECT": "112",
+            "ORGANIC": "95",
+            "REFERRAL": "100",
+            "PAID": "54",
+            "OTHER": "169",
+            "TOTAL SESSIONS": "530"
+        },
+        {
+            "DATE": "Wednesday, February 22, 2023",
+            "DIRECT": "107",
+            "ORGANIC": "69",
+            "REFERRAL": "71",
+            "PAID": "32",
+            "OTHER": "169",
+            "TOTAL SESSIONS": "448"
+        },
+        {
+            "DATE": "Thursday, February 23, 2023",
+            "DIRECT": "118",
+            "ORGANIC": "127",
+            "REFERRAL": "117",
+            "PAID": "49",
+            "OTHER": "72",
+            "TOTAL SESSIONS": "483"
+        },
+        {
+            "DATE": "Friday, February 24, 2023",
+            "DIRECT": "138",
+            "ORGANIC": "126",
+            "REFERRAL": "130",
+            "PAID": "53",
+            "OTHER": "204",
+            "TOTAL SESSIONS": "651"
+        },
+        {
+            "DATE": "Saturday, February 25, 2023",
+            "DIRECT": "62",
+            "ORGANIC": "61",
+            "REFERRAL": "61",
+            "PAID": "33",
+            "OTHER": "67",
+            "TOTAL SESSIONS": "284"
+        },
+        {
+            "DATE": "Sunday, February 26, 2023",
+            "DIRECT": "55",
+            "ORGANIC": "49",
+            "REFERRAL": "46",
+            "PAID": "26",
+            "OTHER": "70",
+            "TOTAL SESSIONS": "246"
+        },
+        {
+            "DATE": "Monday, February 27, 2023",
+            "DIRECT": "125",
+            "ORGANIC": "107",
+            "REFERRAL": "99",
+            "PAID": "17",
+            "OTHER": "98",
+            "TOTAL SESSIONS": "446"
+        },
+        {
+            "DATE": "Tuesday, February 28, 2023",
+            "DIRECT": "111",
+            "ORGANIC": "102",
+            "REFERRAL": "87",
+            "PAID": "21",
+            "OTHER": "87",
+            "TOTAL SESSIONS": "408"
+        },
+        {
+            "DATE": "Wednesday, March 01, 2023",
+            "DIRECT": "98",
+            "ORGANIC": "77",
+            "REFERRAL": "69",
+            "PAID": "47",
+            "OTHER": "80",
+            "TOTAL SESSIONS": "371"
+        },
+        {
+            "DATE": "Thursday, March 02, 2023",
+            "DIRECT": "89",
+            "ORGANIC": "73",
+            "REFERRAL": "57",
+            "PAID": "27",
+            "OTHER": "130",
+            "TOTAL SESSIONS": "376"
+        },
+        {
+            "DATE": "Friday, March 03, 2023",
+            "DIRECT": "91",
+            "ORGANIC": "102",
+            "REFERRAL": "104",
+            "PAID": "53",
+            "OTHER": "182",
+            "TOTAL SESSIONS": "532"
+        },
+        {
+            "DATE": "Saturday, March 04, 2023",
+            "DIRECT": "53",
+            "ORGANIC": "46",
+            "REFERRAL": "44",
+            "PAID": "10",
+            "OTHER": "88",
+            "TOTAL SESSIONS": "241"
+        },
+        {
+            "DATE": "Sunday, March 05, 2023",
+            "DIRECT": "52",
+            "ORGANIC": "24",
+            "REFERRAL": "31",
+            "PAID": "16",
+            "OTHER": "98",
+            "TOTAL SESSIONS": "221"
+        },
+        {
+            "DATE": "Monday, March 06, 2023",
+            "DIRECT": "128",
+            "ORGANIC": "104",
+            "REFERRAL": "90",
+            "PAID": "27",
+            "OTHER": "206",
+            "TOTAL SESSIONS": "555"
+        },
+        {
+            "DATE": "Tuesday, March 07, 2023",
+            "DIRECT": "140",
+            "ORGANIC": "101",
+            "REFERRAL": "92",
+            "PAID": "32",
+            "OTHER": "113",
+            "TOTAL SESSIONS": "478"
+        },
+        {
+            "DATE": "Wednesday, March 08, 2023",
+            "DIRECT": "125",
+            "ORGANIC": "117",
+            "REFERRAL": "118",
+            "PAID": "33",
+            "OTHER": "108",
+            "TOTAL SESSIONS": "501"
+        },
+        {
+            "DATE": "Thursday, March 09, 2023",
+            "DIRECT": "108",
+            "ORGANIC": "103",
+            "REFERRAL": "95",
+            "PAID": "12",
+            "OTHER": "87",
+            "TOTAL SESSIONS": "405"
+        },
+        {
+            "DATE": "Friday, March 10, 2023",
+            "DIRECT": "95",
+            "ORGANIC": "74",
+            "REFERRAL": "77",
+            "PAID": "54",
+            "OTHER": "173",
+            "TOTAL SESSIONS": "473"
+        },
+        {
+            "DATE": "Saturday, March 11, 2023",
+            "DIRECT": "54",
+            "ORGANIC": "52",
+            "REFERRAL": "47",
+            "PAID": "18",
+            "OTHER": "93",
+            "TOTAL SESSIONS": "264"
+        },
+        {
+            "DATE": "Sunday, March 12, 2023",
+            "DIRECT": "43",
+            "ORGANIC": "45",
+            "REFERRAL": "51",
+            "PAID": "17",
+            "OTHER": "60",
+            "TOTAL SESSIONS": "216"
+        },
+        {
+            "DATE": "Monday, March 13, 2023",
+            "DIRECT": "128",
+            "ORGANIC": "116",
+            "REFERRAL": "100",
+            "PAID": "11",
+            "OTHER": "98",
+            "TOTAL SESSIONS": "453"
+        },
+        {
+            "DATE": "Tuesday, March 14, 2023",
+            "DIRECT": "102",
+            "ORGANIC": "88",
+            "REFERRAL": "85",
+            "PAID": "18",
+            "OTHER": "207",
+            "TOTAL SESSIONS": "500"
+        },
+        {
+            "DATE": "Wednesday, March 15, 2023",
+            "DIRECT": "95",
+            "ORGANIC": "74",
+            "REFERRAL": "61",
+            "PAID": "27",
+            "OTHER": "179",
+            "TOTAL SESSIONS": "436"
+        },
+        {
+            "DATE": "Thursday, March 16, 2023",
+            "DIRECT": "137",
+            "ORGANIC": "135",
+            "REFERRAL": "121",
+            "PAID": "56",
+            "OTHER": "96",
+            "TOTAL SESSIONS": "545"
+        },
+        {
+            "DATE": "Friday, March 17, 2023",
+            "DIRECT": "133",
+            "ORGANIC": "89",
+            "REFERRAL": "80",
+            "PAID": "24",
+            "OTHER": "159",
+            "TOTAL SESSIONS": "485"
+        },
+        {
+            "DATE": "Saturday, March 18, 2023",
+            "DIRECT": "63",
+            "ORGANIC": "61",
+            "REFERRAL": "70",
+            "PAID": "33",
+            "OTHER": "67",
+            "TOTAL SESSIONS": "294"
+        },
+        {
+            "DATE": "Sunday, March 19, 2023",
+            "DIRECT": "52",
+            "ORGANIC": "54",
+            "REFERRAL": "46",
+            "PAID": "24",
+            "OTHER": "70",
+            "TOTAL SESSIONS": "246"
+        },
+        {
+            "DATE": "Monday, March 20, 2023",
+            "DIRECT": "88",
+            "ORGANIC": "46",
+            "REFERRAL": "44",
+            "PAID": "29",
+            "OTHER": "85",
+            "TOTAL SESSIONS": "292"
+        },
+        {
+            "DATE": "Tuesday, March 21, 2023",
+            "DIRECT": "86",
+            "ORGANIC": "96",
+            "REFERRAL": "83",
+            "PAID": "19",
+            "OTHER": "175",
+            "TOTAL SESSIONS": "459"
+        },
+        {
+            "DATE": "Wednesday, March 22, 2023",
+            "DIRECT": "100",
+            "ORGANIC": "74",
+            "REFERRAL": "62",
+            "PAID": "46",
+            "OTHER": "205",
+            "TOTAL SESSIONS": "487"
+        },
+        {
+            "DATE": "Thursday, March 23, 2023",
+            "DIRECT": "85",
+            "ORGANIC": "47",
+            "REFERRAL": "45",
+            "PAID": "35",
+            "OTHER": "135",
+            "TOTAL SESSIONS": "347"
+        },
+        {
+            "DATE": "Friday, March 24, 2023",
+            "DIRECT": "96",
+            "ORGANIC": "69",
+            "REFERRAL": "57",
+            "PAID": "39",
+            "OTHER": "174",
+            "TOTAL SESSIONS": "435"
+        },
+        {
+            "DATE": "Saturday, March 25, 2023",
+            "DIRECT": "62",
+            "ORGANIC": "61",
+            "REFERRAL": "53",
+            "PAID": "33",
+            "OTHER": "67",
+            "TOTAL SESSIONS": "276"
+        },
+        {
+            "DATE": "Sunday, March 26, 2023",
+            "DIRECT": "58",
+            "ORGANIC": "54",
+            "REFERRAL": "46",
+            "PAID": "28",
+            "OTHER": "70",
+            "TOTAL SESSIONS": "256"
+        },
+        {
+            "DATE": "Monday, March 27, 2023",
+            "DIRECT": "89",
+            "ORGANIC": "87",
+            "REFERRAL": "82",
+            "PAID": "26",
+            "OTHER": "124",
+            "TOTAL SESSIONS": "408"
+        },
+        {
+            "DATE": "Tuesday, March 28, 2023",
+            "DIRECT": "122",
+            "ORGANIC": "103",
+            "REFERRAL": "88",
+            "PAID": "47",
+            "OTHER": "178",
+            "TOTAL SESSIONS": "538"
+        },
+        {
+            "DATE": "Wednesday, March 29, 2023",
+            "DIRECT": "133",
+            "ORGANIC": "108",
+            "REFERRAL": "100",
+            "PAID": "46",
+            "OTHER": "141",
+            "TOTAL SESSIONS": "528"
+        },
+        {
+            "DATE": "Thursday, March 30, 2023",
+            "DIRECT": "126",
+            "ORGANIC": "123",
+            "REFERRAL": "118",
+            "PAID": "12",
+            "OTHER": "181",
+            "TOTAL SESSIONS": "560"
+        },
+        {
+            "DATE": "Friday, March 31, 2023",
+            "DIRECT": "115",
+            "ORGANIC": "70",
+            "REFERRAL": "73",
+            "PAID": "20",
+            "OTHER": "73",
+            "TOTAL SESSIONS": "351"
+        }
+    ],
+    "Calc": [
+        {
+            "Subscribers": "6,537",
+            "Sessions Last 30 Days": "12,158"
+        },
+        {
+            "Subscribers": "Subscribers Yesterday",
+            "__EMPTY_1": "Difference",
+            "Sessions Last 30 Days": "Sessions Yesterday",
+            "__EMPTY_4": "Difference"
+        },
+        {
+            "Subscribers": "6,540",
+            "__EMPTY_1": "-3",
+            "Sessions Last 30 Days": "12,178",
+            "__EMPTY_4": "-20"
+        },
+        {
+            "Subscribers": "Subscribers Week Before",
+            "__EMPTY_1": "Difference",
+            "Sessions Last 30 Days": "Sessions Week Before",
+            "__EMPTY_4": "Difference"
+        },
+        {
+            "Subscribers": "6,510",
+            "__EMPTY_1": "+27",
+            "Sessions Last 30 Days": "12,130",
+            "__EMPTY_4": "+28"
+        },
+        {
+            "Subscribers": "Subscribers Last 30 Days",
+            "Sessions Last 30 Days": "DIRECT",
+            "__EMPTY_4": "ORGANIC",
+            "__EMPTY_5": "REFERRAL",
+            "__EMPTY_6": "PAID",
+            "__EMPTY_7": "OTHER",
+            "__EMPTY_8": "TOTAL SESSIONS",
+            "__EMPTY_10": "7 Days before - sessions"
+        },
+        {
+            "__EMPTY": "3/2/23",
+            "Subscribers": "5,799",
+            "__EMPTY_3": "3/2/23",
+            "Sessions Last 30 Days": "89",
+            "__EMPTY_4": "73",
+            "__EMPTY_5": "57",
+            "__EMPTY_6": "27",
+            "__EMPTY_7": "130",
+            "__EMPTY_8": "376",
+            "__EMPTY_10": "2/23/23",
+            "__EMPTY_11": "483"
+        },
+        {
+            "__EMPTY": "3/3/23",
+            "Subscribers": "5,780",
+            "__EMPTY_3": "3/3/23",
+            "Sessions Last 30 Days": "91",
+            "__EMPTY_4": "102",
+            "__EMPTY_5": "104",
+            "__EMPTY_6": "53",
+            "__EMPTY_7": "182",
+            "__EMPTY_8": "532",
+            "__EMPTY_10": "2/24/23",
+            "__EMPTY_11": "651"
+        },
+        {
+            "__EMPTY": "3/4/23",
+            "Subscribers": "5,822",
+            "__EMPTY_3": "3/4/23",
+            "Sessions Last 30 Days": "53",
+            "__EMPTY_4": "46",
+            "__EMPTY_5": "44",
+            "__EMPTY_6": "10",
+            "__EMPTY_7": "88",
+            "__EMPTY_8": "241",
+            "__EMPTY_10": "2/25/23",
+            "__EMPTY_11": "284"
+        },
+        {
+            "__EMPTY": "3/5/23",
+            "Subscribers": "5,814",
+            "__EMPTY_3": "3/5/23",
+            "Sessions Last 30 Days": "52",
+            "__EMPTY_4": "24",
+            "__EMPTY_5": "31",
+            "__EMPTY_6": "16",
+            "__EMPTY_7": "98",
+            "__EMPTY_8": "221",
+            "__EMPTY_10": "2/26/23",
+            "__EMPTY_11": "246"
+        },
+        {
+            "__EMPTY": "3/6/23",
+            "Subscribers": "5,804",
+            "__EMPTY_3": "3/6/23",
+            "Sessions Last 30 Days": "128",
+            "__EMPTY_4": "104",
+            "__EMPTY_5": "90",
+            "__EMPTY_6": "27",
+            "__EMPTY_7": "206",
+            "__EMPTY_8": "555",
+            "__EMPTY_10": "2/27/23",
+            "__EMPTY_11": "446"
+        },
+        {
+            "__EMPTY": "3/7/23",
+            "Subscribers": "5,800",
+            "__EMPTY_3": "3/7/23",
+            "Sessions Last 30 Days": "140",
+            "__EMPTY_4": "101",
+            "__EMPTY_5": "92",
+            "__EMPTY_6": "32",
+            "__EMPTY_7": "113",
+            "__EMPTY_8": "478",
+            "__EMPTY_10": "2/28/23",
+            "__EMPTY_11": "408"
+        },
+        {
+            "__EMPTY": "3/8/23",
+            "Subscribers": "5,870",
+            "__EMPTY_3": "3/8/23",
+            "Sessions Last 30 Days": "125",
+            "__EMPTY_4": "117",
+            "__EMPTY_5": "118",
+            "__EMPTY_6": "33",
+            "__EMPTY_7": "108",
+            "__EMPTY_8": "501",
+            "__EMPTY_10": "3/1/23",
+            "__EMPTY_11": "371"
+        },
+        {
+            "__EMPTY": "3/9/23",
+            "Subscribers": "5,866",
+            "__EMPTY_3": "3/9/23",
+            "Sessions Last 30 Days": "108",
+            "__EMPTY_4": "103",
+            "__EMPTY_5": "95",
+            "__EMPTY_6": "12",
+            "__EMPTY_7": "87",
+            "__EMPTY_8": "405"
+        },
+        {
+            "__EMPTY": "3/10/23",
+            "Subscribers": "5,860",
+            "__EMPTY_3": "3/10/23",
+            "Sessions Last 30 Days": "95",
+            "__EMPTY_4": "74",
+            "__EMPTY_5": "77",
+            "__EMPTY_6": "54",
+            "__EMPTY_7": "173",
+            "__EMPTY_8": "473"
+        },
+        {
+            "__EMPTY": "3/11/23",
+            "Subscribers": "5,852",
+            "__EMPTY_3": "3/11/23",
+            "Sessions Last 30 Days": "54",
+            "__EMPTY_4": "52",
+            "__EMPTY_5": "47",
+            "__EMPTY_6": "18",
+            "__EMPTY_7": "93",
+            "__EMPTY_8": "264"
+        },
+        {
+            "__EMPTY": "3/12/23",
+            "Subscribers": "5,844",
+            "__EMPTY_3": "3/12/23",
+            "Sessions Last 30 Days": "43",
+            "__EMPTY_4": "45",
+            "__EMPTY_5": "51",
+            "__EMPTY_6": "17",
+            "__EMPTY_7": "60",
+            "__EMPTY_8": "216"
+        },
+        {
+            "__EMPTY": "3/13/23",
+            "Subscribers": "5,840",
+            "__EMPTY_3": "3/13/23",
+            "Sessions Last 30 Days": "128",
+            "__EMPTY_4": "116",
+            "__EMPTY_5": "100",
+            "__EMPTY_6": "11",
+            "__EMPTY_7": "98",
+            "__EMPTY_8": "453"
+        },
+        {
+            "__EMPTY": "3/14/23",
+            "Subscribers": "6,020",
+            "__EMPTY_3": "3/14/23",
+            "Sessions Last 30 Days": "102",
+            "__EMPTY_4": "88",
+            "__EMPTY_5": "85",
+            "__EMPTY_6": "18",
+            "__EMPTY_7": "207",
+            "__EMPTY_8": "500"
+        },
+        {
+            "__EMPTY": "3/15/23",
+            "Subscribers": "6,045",
+            "__EMPTY_3": "3/15/23",
+            "Sessions Last 30 Days": "95",
+            "__EMPTY_4": "74",
+            "__EMPTY_5": "61",
+            "__EMPTY_6": "27",
+            "__EMPTY_7": "179",
+            "__EMPTY_8": "436"
+        },
+        {
+            "__EMPTY": "3/16/23",
+            "Subscribers": "6,040",
+            "__EMPTY_3": "3/16/23",
+            "Sessions Last 30 Days": "137",
+            "__EMPTY_4": "135",
+            "__EMPTY_5": "121",
+            "__EMPTY_6": "56",
+            "__EMPTY_7": "96",
+            "__EMPTY_8": "545"
+        },
+        {
+            "__EMPTY": "3/17/23",
+            "Subscribers": "6,318",
+            "__EMPTY_3": "3/17/23",
+            "Sessions Last 30 Days": "133",
+            "__EMPTY_4": "89",
+            "__EMPTY_5": "80",
+            "__EMPTY_6": "24",
+            "__EMPTY_7": "159",
+            "__EMPTY_8": "485"
+        },
+        {
+            "__EMPTY": "3/18/23",
+            "Subscribers": "6,302",
+            "__EMPTY_3": "3/18/23",
+            "Sessions Last 30 Days": "63",
+            "__EMPTY_4": "61",
+            "__EMPTY_5": "70",
+            "__EMPTY_6": "33",
+            "__EMPTY_7": "67",
+            "__EMPTY_8": "294"
+        },
+        {
+            "__EMPTY": "3/19/23",
+            "Subscribers": "6,288",
+            "__EMPTY_3": "3/19/23",
+            "Sessions Last 30 Days": "52",
+            "__EMPTY_4": "54",
+            "__EMPTY_5": "46",
+            "__EMPTY_6": "24",
+            "__EMPTY_7": "70",
+            "__EMPTY_8": "246"
+        },
+        {
+            "__EMPTY": "3/20/23",
+            "Subscribers": "6,264",
+            "__EMPTY_3": "3/20/23",
+            "Sessions Last 30 Days": "88",
+            "__EMPTY_4": "46",
+            "__EMPTY_5": "44",
+            "__EMPTY_6": "29",
+            "__EMPTY_7": "85",
+            "__EMPTY_8": "292"
+        },
+        {
+            "__EMPTY": "3/21/23",
+            "Subscribers": "6,250",
+            "__EMPTY_3": "3/21/23",
+            "Sessions Last 30 Days": "86",
+            "__EMPTY_4": "96",
+            "__EMPTY_5": "83",
+            "__EMPTY_6": "19",
+            "__EMPTY_7": "175",
+            "__EMPTY_8": "459"
+        },
+        {
+            "__EMPTY": "3/22/23",
+            "Subscribers": "6,260",
+            "__EMPTY_3": "3/22/23",
+            "Sessions Last 30 Days": "100",
+            "__EMPTY_4": "74",
+            "__EMPTY_5": "62",
+            "__EMPTY_6": "46",
+            "__EMPTY_7": "205",
+            "__EMPTY_8": "487"
+        },
+        {
+            "__EMPTY": "3/23/23",
+            "Subscribers": "6,522",
+            "__EMPTY_3": "3/23/23",
+            "Sessions Last 30 Days": "85",
+            "__EMPTY_4": "47",
+            "__EMPTY_5": "45",
+            "__EMPTY_6": "35",
+            "__EMPTY_7": "135",
+            "__EMPTY_8": "347"
+        },
+        {
+            "__EMPTY": "3/24/23",
+            "Subscribers": "6,510",
+            "__EMPTY_3": "3/24/23",
+            "Sessions Last 30 Days": "96",
+            "__EMPTY_4": "69",
+            "__EMPTY_5": "57",
+            "__EMPTY_6": "39",
+            "__EMPTY_7": "174",
+            "__EMPTY_8": "435"
+        },
+        {
+            "__EMPTY": "3/25/23",
+            "Subscribers": "6,623",
+            "__EMPTY_3": "3/25/23",
+            "Sessions Last 30 Days": "62",
+            "__EMPTY_4": "61",
+            "__EMPTY_5": "53",
+            "__EMPTY_6": "33",
+            "__EMPTY_7": "67",
+            "__EMPTY_8": "276"
+        },
+        {
+            "__EMPTY": "3/26/23",
+            "Subscribers": "6,601",
+            "__EMPTY_3": "3/26/23",
+            "Sessions Last 30 Days": "58",
+            "__EMPTY_4": "54",
+            "__EMPTY_5": "46",
+            "__EMPTY_6": "28",
+            "__EMPTY_7": "70",
+            "__EMPTY_8": "256"
+        },
+        {
+            "__EMPTY": "3/27/23",
+            "Subscribers": "6,575",
+            "__EMPTY_3": "3/27/23",
+            "Sessions Last 30 Days": "89",
+            "__EMPTY_4": "87",
+            "__EMPTY_5": "82",
+            "__EMPTY_6": "26",
+            "__EMPTY_7": "124",
+            "__EMPTY_8": "408"
+        },
+        {
+            "__EMPTY": "3/28/23",
+            "Subscribers": "6,550",
+            "__EMPTY_3": "3/28/23",
+            "Sessions Last 30 Days": "122",
+            "__EMPTY_4": "103",
+            "__EMPTY_5": "88",
+            "__EMPTY_6": "47",
+            "__EMPTY_7": "178",
+            "__EMPTY_8": "538"
+        },
+        {
+            "__EMPTY": "3/29/23",
+            "Subscribers": "6,548",
+            "__EMPTY_3": "3/29/23",
+            "Sessions Last 30 Days": "133",
+            "__EMPTY_4": "108",
+            "__EMPTY_5": "100",
+            "__EMPTY_6": "46",
+            "__EMPTY_7": "141",
+            "__EMPTY_8": "528"
+        },
+        {
+            "__EMPTY": "3/30/23",
+            "Subscribers": "6,540",
+            "__EMPTY_3": "3/30/23",
+            "Sessions Last 30 Days": "126",
+            "__EMPTY_4": "123",
+            "__EMPTY_5": "118",
+            "__EMPTY_6": "12",
+            "__EMPTY_7": "181",
+            "__EMPTY_8": "560"
+        },
+        {
+            "__EMPTY": "3/31/23",
+            "Subscribers": "6,537",
+            "__EMPTY_3": "3/31/23",
+            "Sessions Last 30 Days": "115",
+            "__EMPTY_4": "70",
+            "__EMPTY_5": "73",
+            "__EMPTY_6": "20",
+            "__EMPTY_7": "73",
+            "__EMPTY_8": "351"
+        },
+        {
+            "Sessions Last 30 Days": "2,848",
+            "__EMPTY_4": "2,396",
+            "__EMPTY_5": "2,220",
+            "__EMPTY_6": "872",
+            "__EMPTY_7": "3,822",
+            "__EMPTY_8": "12,158"
+        }
+    ],
+    "DASHBOARD": [
+        {
+            "__EMPTY_7": "CAMPAIGN",
+            "__EMPTY_8": "SENT",
+            "__EMPTY_9": "OPENS",
+            "__EMPTY_10": "CLICKS",
+            "__EMPTY_11": "BOUNCES",
+            "__EMPTY_12": "UNSUBS"
+        },
+        {
+            "__EMPTY_7": "Weekly Newsletter",
+            "__EMPTY_8": "6,020",
+            "__EMPTY_9": "2,135",
+            "__EMPTY_10": "125",
+            "__EMPTY_11": "20",
+            "__EMPTY_12": "14"
+        },
+        {
+            "__EMPTY_7": "Tuesday, March 14, 2023",
+            "__EMPTY_9": "35.47%",
+            "__EMPTY_10": "5.85%"
+        },
+        {
+            "__EMPTY_7": "Daily customer Update",
+            "__EMPTY_8": "6,040",
+            "__EMPTY_9": "1,450",
+            "__EMPTY_10": "102",
+            "__EMPTY_11": "13",
+            "__EMPTY_12": "6"
+        },
+        {
+            "__EMPTY_7": "Thursday, March 16, 2023",
+            "__EMPTY_9": "24.01%",
+            "__EMPTY_10": "7.03%"
+        },
+        {
+            "__EMPTY_7": "Weekly Newsletter",
+            "__EMPTY_8": "6,250",
+            "__EMPTY_9": "2,359",
+            "__EMPTY_10": "225",
+            "__EMPTY_11": "44",
+            "__EMPTY_12": "41"
+        },
+        {
+            "__EMPTY_7": "Tuesday, March 21, 2023",
+            "__EMPTY_9": "37.74%",
+            "__EMPTY_10": "9.54%"
+        },
+        {
+            "__EMPTY_7": "Course is now 50% off",
+            "__EMPTY_8": "6,260",
+            "__EMPTY_9": "3,996",
+            "__EMPTY_10": "418",
+            "__EMPTY_11": "98",
+            "__EMPTY_12": "85"
+        },
+        {
+            "__EMPTY_7": "Wednesday, March 22, 2023",
+            "__EMPTY_9": "63.83%",
+            "__EMPTY_10": "10.46%"
+        },
+        {
+            "__EMPTY_7": "Promise of Responsive Service",
+            "__EMPTY_8": "6,510",
+            "__EMPTY_9": "4,187",
+            "__EMPTY_10": "705",
+            "__EMPTY_11": "177",
+            "__EMPTY_12": "103"
+        },
+        {
+            "__EMPTY_7": "Friday, March 24, 2023",
+            "__EMPTY_9": "64.32%",
+            "__EMPTY_10": "16.84%"
+        },
+        {
+            "__EMPTY_7": "Weekly Newsletter",
+            "__EMPTY_8": "6,550",
+            "__EMPTY_9": "1,541",
+            "__EMPTY_10": "145",
+            "__EMPTY_11": "36",
+            "__EMPTY_12": "31"
+        },
+        {
+            "__EMPTY_7": "Tuesday, March 28, 2023",
+            "__EMPTY_9": "23.53%",
+            "__EMPTY_10": "9.41%"
+        }
+    ],
+    "©": []
+}
